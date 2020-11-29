@@ -31,12 +31,8 @@ I'm not a Developer, and I'am newbie!!
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+ <img align="left" alt="Askan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=askanakmala&show_icons=true&hide_border=true" 
 
-  <img align="left" alt="Askan's GitHub Stats" src="https://github-readme-stats.askanakmala.vercel.app/api?username=askanakmala&show_icons=true&hide_border=true" />
-
-</details>
 
 [instagram]: https://instagram.com/askan_28
 [telegram]: https://t.me/akn_28
