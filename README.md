@@ -29,6 +29,14 @@ I'm not a Developer, and I'am newbie!!
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Askan's GitHub Stats" src="https://github-readme-stats.askanakmala.vercel.app/api?username=askanakmala&show_icons=true&hide_border=true" />
+
+</details>
 
 [instagram]: https://instagram.com/askan_28
 [telegram]: https://t.me/akn_28
