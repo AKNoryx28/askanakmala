@@ -1,6 +1,6 @@
 ### Hi there, I'm Askan 👋
 
-I'm not a Developer, and newbie!!
+I'm not a Developer, and I'am newbie!!
 
 ### Connect with me:
 
