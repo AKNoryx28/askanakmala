@@ -31,7 +31,7 @@ I'm not a Developer, and I'am newbie!!
 <br />
 <br />
 
- <img align="left" alt="Askan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=askanakmala&show_icons=true&hide_border=true" />
+ <img align="left" alt="Askan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=askanakmala&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
 [instagram]: https://instagram.com/askan_28
