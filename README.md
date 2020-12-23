@@ -4,8 +4,8 @@ I'm not a Developer, and I'am newbie!!
 
 ### Connect with me:
 
-[<img align="left" alt="@askan_28" width="22px" src="https://github.com/askanakmala/template_me/blob/main/ig_icon.png" />][Instagram]
-[<img align="left" alt="@akn_28" width="22px" src="https://github.com/askanakmala/template_me/blob/main/logotype-telegram-round-blue-logo-512.webp" />][Telegram]
+[<img align="left" alt="@askan_28" width="22px" src="https://raw.githubusercontent.com/askanakmala/template_me/main/ig_icon.png" />][Instagram]
+[<img align="left" alt="@akn_28" width="22px" src="https://raw.githubusercontent.com/askanakmala/template_me/main/logotype-telegram-round-blue-logo-512.webp" />][Telegram]
 
 <br />
 
