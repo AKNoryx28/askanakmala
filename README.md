@@ -1,4 +1,5 @@
 ### Hi there, I'm Askan 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=askanakmala.askanakmala)
 
 I'm not a Developer, and I'am newbie!!
 
@@ -33,6 +34,7 @@ I'm not a Developer, and I'am newbie!!
 
  <img align="left" alt="Askan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=askanakmala&show_icons=true&hide_border=true&theme=tokyonight" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askanakmala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://instagram.com/askan_28
 [telegram]: https://t.me/akn_28
